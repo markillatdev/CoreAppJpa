@@ -1,0 +1,2 @@
+# CoreAppJpa
+core app jpa
